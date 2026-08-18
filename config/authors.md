@@ -19,9 +19,15 @@ Peter H. Gleick
 James H. Thorne
 Melanie Gogol-Prokurat
 Belize Lane
+M. D. Dettinger
+Rebecca Shaw
+Angela Arthington
 Stephanie Carlson
 Flora Cordoleani
 Noah S. Diffenbaugh
 Daniel L. Swain
 Joshua H. Viers
 N. Leroy Poff
+Rafael D. Mazor
+Allison H. Roy
+C. M. Albano
