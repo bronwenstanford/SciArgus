@@ -76,6 +76,7 @@ Ecological Economics
 Ecosystem Services
 Environmental Science & Policy
 Journal of Environmental Economics and Management
+Fisheries
 Review of Environmental Economics and Policy
 Environmental and Resource Economics
 Ecology and Society
