@@ -31,3 +31,6 @@ N. Leroy Poff
 Rafael D. Mazor
 Allison H. Roy
 C. M. Albano
+Thomas C. Annear
+J. Eli Asarian
+Nicholas Murphy
